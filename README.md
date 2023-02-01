@@ -3,9 +3,15 @@
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30%"/>
 
 # Hi there 🤭
+  
+<br/>
 
 🌱 I’m currently learning Web Development on Makaia Corporation<br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/caro-bustamante-escobar/)
+
+<br/>
+  
+# GitHub Stats 🤩
 
 <br/>
 

@@ -6,7 +6,7 @@
   
 <br/>
 
-🌱 I’m currently learning Frontend Web Development<br/>
+🌱 I’m currently learning Web Development<br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/caro-bustamante-escobar/)
 
 <br/>

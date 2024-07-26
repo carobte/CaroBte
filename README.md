@@ -21,4 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaroBte&show_icons=true&theme=tokyonight&locale=en" alt="CaroBte" />
 
+[![](https://visitcount.itsvg.in/api?id=CaroBteG&icon=0&color=7)](https://visitcount.itsvg.in)
+
 </div>
